@@ -32,3 +32,4 @@ branches:
     required_signatures: true
     allow_force_pushes: true
     allow_deletions: true
+
