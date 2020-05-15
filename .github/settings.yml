@@ -30,4 +30,5 @@ branches:
     enforce_admins: null
     restrictions: null
     required_signatures: true
-
+    allow_force_pushes: true
+    allow_deletions: true
